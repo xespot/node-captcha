@@ -14,10 +14,10 @@
   "contributors": [],
   "repository": {
     "type": "git",
-    "url": "git://github.com/zhiyu/node-captcha.git"
+    "url": "git://github.com/xespot/node-captcha.git"
   },
   "dependencies": {
-    "canvas":"1.6.3"
+    "canvas":"1.6.2"
   },
   "main": "captcha.js",
   "devDependencies": {},
